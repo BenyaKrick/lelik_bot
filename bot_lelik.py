@@ -1,6 +1,6 @@
 import telebot
 from Dict import _dict
-from Dict import token
+from config import token
 from Dict import _list
 
 bot = telebot.TeleBot(token)

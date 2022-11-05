@@ -1,5 +1,3 @@
-token = "5602505494:AAF5G8OGzkptUPXmjegSjhd28sKcreEk0Nk"
-
 _list = []
 _dict = {
         "Hi": "Hello", 'Привет': 'Приветик', 'Как дела?': 'Отлично, а у тебя?', 'Го переп?': 'Го',
