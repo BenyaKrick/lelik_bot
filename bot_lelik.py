@@ -6,7 +6,6 @@ from Dict import _list
 bot = telebot.TeleBot(token)
 
 
-
 @bot.message_handler(content_types=["text"])
 def repeat_all_messages(message):
     if message.text in _dict:
